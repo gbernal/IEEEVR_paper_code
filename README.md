@@ -11,4 +11,6 @@ We describe the primary design considerations and circuit characterization resul
 
 ## Code Walk-through:
 The files shared here are intended to be used with Google Colab to help reduce the setup time. Please, download this repo and place the entire folder in a google drive of your choice. After that is done, you can open any of the .ipynb files using google colab. Each file has cells that need to be run sequentially. Before running the cell, you will need to adjust the data paths accordingly.
-
+Folders:
+* Data: contains the Data and a data_info text file about the format of the .mat and .txt files. As long as the data path up to "\Data..." is modified, the notebooks will extract the relevant data from the files.
+* Notebooks: contains the code files to be lodaded in Colab. This notebooks can also be run with JupyterNotebook if the user is more familiar with that platform.
