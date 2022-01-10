@@ -1,0 +1,8 @@
+Data is collected from males and females participants with a range of ages from 18-34 years old.
+
+.mat file description: the file contains the following
+
+‘SSVEP_continuous’: continuous raw data with 98831 samples and 16 channels where only the last 10 channels contain EEG.
+‘SSVEP_continuous_timestamps’: timestamps for each data sample, contains a total of 98831 timestamps
+‘Marker_samples’: marker labels for the start of each stimulus presentation. Includes 16,17,18,19,20,21,22,23 Hz where 0 is the label for 16 Hz and 6 is the label for 23 Hz.
+‘Marker_timestamps’: timestamps corresponding to each label that marks the start of the stimulus presentation.
