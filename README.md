@@ -1,6 +1,7 @@
 # Galea: A physiological sensing system for behavioral research in Virtual Environments
-https://ieeexplore.ieee.org/document/9756768
 ![alt text](https://github.com/gbernal/IEEEVR_paper_code/blob/main/Galea_image.png?raw=true)
+
+https://ieeexplore.ieee.org/document/9756768
 
 ## Abstract
 
